@@ -1,0 +1,4 @@
+spring:
+  content:
+    s3:
+      bucke: foo
